@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Shivam-gbh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Shivam Birla 
+- 👀 I’m interested in: problem solving and create Web-Development
+- 🌱 I’m currently learning: **MERN**(Full stack Development)
+- 💞️ I’m looking for help with: Web Development.
+- ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me.
+- 💬 Ask me about:- Anything ( not my personal life , duhh !! )
+- 📄 Check out my resume : **Resume**
+- 📑 Check out my Portfolio : **Portfolio**
+- 📫 How to reach me :Linkdian,Resume And Portfolio.
 
 <!---
 Shivam-gbh/Shivam-gbh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
